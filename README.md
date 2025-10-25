@@ -14,7 +14,7 @@
 <img width="505" height="449" alt="image" src="https://github.com/user-attachments/assets/22ab8bf6-fded-4591-a3a3-d66a556140cc" />
 
 ### 🎯Project 5: Rock Paper Scissors Game
-<img width="403" height="244" alt="Screenshot 2025-10-25 231113" src="https://github.com/user-attachments/assets/a703b163-8833-4523-8485-210014b96188" />
+<img width="369" height="213" alt="Screenshot 2025-10-25 233426" src="https://github.com/user-attachments/assets/1fcfbb52-22ca-47f4-9f7e-3ba7b177e8fa" />
 
 ### 🎯Project 6: Simple Quiz Game
 <img width="533" height="390" alt="Screenshot 2025-10-25 231618" src="https://github.com/user-attachments/assets/8a02ea40-4538-42c9-ad40-779b503221bd" />
