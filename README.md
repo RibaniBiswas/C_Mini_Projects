@@ -2,7 +2,7 @@
 ## 🧠7 Amazing Projects Using C
 
 ### 🎯project 1: ATM Machine Simulation
-<img width="533" height="390" alt="Screenshot 2025-10-25 231618" src="https://github.com/user-attachments/assets/61efe74b-3f35-4d9a-9ba4-e218ba94a19d" />
+<img width="375" height="385" alt="Screenshot 2025-10-25 233055" src="https://github.com/user-attachments/assets/53cbf759-4bfd-48e5-8c9e-bec40874a5da" />
 
 ### 🎯Project 2: Simple Calculator (Basic Operators)
 <img width="379" height="102" alt="image" src="https://github.com/user-attachments/assets/3953cad2-880e-4735-891a-a12a527fd98f" />
